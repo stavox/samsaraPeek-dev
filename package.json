@@ -11,5 +11,7 @@
   "dependencies": {
     "twilio": "^4.13.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@types/node": "^20.3.3"
+  }
 }
